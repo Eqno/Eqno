@@ -1,6 +1,6 @@
 ### Hi ... since you clicked on my page ... 
 
-  It's Eqnoxx | 方年年, [Yukiteru](https://github.com/wfly1998) crazy fan.
+  It's Eqnoxx | 方年年, crazy fan of [[Yukiteru]](https://github.com/wfly1998).
   
   - 🔭 I’m currently working on game development.
   - 🌱 I’m currently learning android and computer graphics.

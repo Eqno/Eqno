@@ -1,6 +1,6 @@
-### Ahh ... since you clicked on my page ... -_-  
+### Hi ... since you clicked on my page ... 
 
-  It's Eqnoxx | 方年年, a boring old woman ~~whose force is so decline that could wave and shake Yueyang city~~ .  
+  It's Eqnoxx | 方年年, a boring old woman ~~whose force is so decline that could shake and wobble Yueyang city~~ .  
   
   - 🔭 I’m currently working on game development.
   - 🌱 I’m currently learning android and computer graphics.

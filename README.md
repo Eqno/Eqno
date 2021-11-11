@@ -1,9 +1,9 @@
 ### Hi ... since you clicked on my page ... 
 
-  It's Eqnoxx | 方年年, a crazy fan of [[Yukiteru](https://github.com/wfly1998)].
+  It's Eqnoxx | 方年年, a lying-flat girl indulge in games, also a crazy fan of [[Yukiteru](https://github.com/wfly1998)].
   
   - 💻 I’m currently working on game development.
-  - 🌱 I’m currently learning android and computer graphics.
+  - 🌱 I’m currently learning Android and Computer Graphics.
   - 🧐 I’m also learning Lua and Python!
   - 🎮 I’m following Unreal Engine and Unity.
   - 📫 How to reach me: WeChat Eqnoxx, Email Eqnoxx@163.com.

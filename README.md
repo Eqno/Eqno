@@ -1,6 +1,6 @@
 ### Hi ... since you clicked on my page ... 
 
-  It's Eqnoxx | 方年年, a lying-flat girl indulge in games, also a crazy fan of [[Yukiteru](https://github.com/wfly1998)].
+  It's Eqnoxx | 方年年, a lying-flat elf indulge in games, also a crazy fan of [[Yukiteru](https://github.com/wfly1998)].
   
   - 💻 I’m currently working on game development.
   - 🌱 I’m currently learning Android and Computer Graphics.

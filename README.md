@@ -9,4 +9,4 @@
   - 📫 How to reach me: WeChat Eqnoxx, Email Eqnoxx@163.com.
   - ⌨️ Coding for fun ~~and food~~ .
   
-BTW, if you like Yaoi/耽美, JX3/剑网三 or science fiction, we'll have a lot to chat about. 🏳️‍🌈
+BTW, if you like 耽美, 剑网三 or science fiction, we'll have a lot to chat about. 🏳️‍🌈
